@@ -432,6 +432,13 @@ main {
     padding: 24%;  
    }
 
+   .extra-padding-top  {
+        
+    padding-top: 24%;  
+    padding-bottom: 24%;
+   }
+
+
    .extra-padding-lr {
     padding-left: 10%;
     padding-right: 10%;
@@ -562,6 +569,13 @@ Medium devices (640px and larger)
   padding: 6%;  
  }
 
+ .extra-padding-top  {
+        
+  padding-top: 6%;  
+  padding-bottom: 6%;
+ }
+
+
 
 .navtoggle.responsive ul {
       background-color: #FEFCF7;
@@ -662,9 +676,10 @@ Large devices (1024px or larger)
     max-width:50% ;
   } 
 
-  .extra-padding  {
+  .extra-padding-top  {
         
-    padding: 12%;  
+    padding-top: 24%;  
+    padding-bottom: 24%;
    }
 
   .column {
