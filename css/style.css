@@ -2,7 +2,7 @@
 Colors used:
 Primary color (Off white): #FEFCF7;
 Secondary color (Almost black): #222222;
-Accent color (Ruby red): #E76060;
+Accent color (Ruby red): #FF4237;
 */
 
 * {
@@ -343,7 +343,7 @@ text-align: center;
 height: 100vh;
 }
 
-.navtoggle li .icon {
+.navtoggle li .menu {
   position: absolute;
   right: 0;
   top:8px;
@@ -661,6 +661,11 @@ Large devices (1024px or larger)
   .max-width {
     max-width:50% ;
   } 
+
+  .extra-padding  {
+        
+    padding: 12%;  
+   }
 
   .column {
     float: left;
