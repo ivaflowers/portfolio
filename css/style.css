@@ -343,7 +343,7 @@ text-align: center;
 height: 100vh;
 }
 
-.navtoggle li .menu {
+.navtoggle li .icon {
   position: absolute;
   right: 0;
   top:8px;
@@ -431,13 +431,6 @@ main {
         
     padding: 24%;  
    }
-
-   .extra-padding-top  {
-        
-    padding-top: 24%;  
-    padding-bottom: 24%;
-   }
-
 
    .extra-padding-lr {
     padding-left: 10%;
@@ -569,13 +562,6 @@ Medium devices (640px and larger)
   padding: 6%;  
  }
 
- .extra-padding-top  {
-        
-  padding-top: 6%;  
-  padding-bottom: 6%;
- }
-
-
 
 .navtoggle.responsive ul {
       background-color: #FEFCF7;
@@ -676,10 +662,9 @@ Large devices (1024px or larger)
     max-width:50% ;
   } 
 
-  .extra-padding-top  {
+  .extra-padding  {
         
-    padding-top: 12%;  
-    padding-bottom: 12%;
+    padding: 12%;  
    }
 
   .column {
